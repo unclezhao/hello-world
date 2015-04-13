@@ -11,3 +11,5 @@ add from local
 add from thinkcenter
 
 test push from command line
+
+test mac air push
